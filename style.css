@@ -1,0 +1,235 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+
+.bgindex{
+	background-image: url('Himgiri_1.png');
+	background-size: cover;
+	width: 100%;
+	height: 100vh;
+
+}
+
+.menu{
+
+	width: 100%;
+	height: 100px;
+	background-color: rgba(0,0,0,0.5);
+}
+
+.leftmenu{
+	width: 20%;
+	line-height: 100px;
+	float: left;
+/*	background-color: yellow;*/
+}
+
+.leftmenu h4{
+	padding-left: 70px;
+	font-weight: bold;
+	color: white;
+	font-size: 22px;
+	font-family: 'Montserrat', sans-serif;
+}
+
+
+.rightmenu{
+	width:70%;
+	height: 100px;
+	float: right;
+/*	background-color: red; */
+}
+
+.rightmenu ul{
+	margin-left: 200px;
+}
+
+.rightmenu ul li {
+	font-family: 'Montserrat', sans-serif;
+	display: inline-block;
+	list-style: none;
+	font-size: 15px;
+	color:white;
+	font-weight: bold;
+	line-height: 100px;
+	margin-left: 40px;
+	text-transform: uppercase;
+
+}
+
+#fisrtlist{
+	color: orange;
+}
+
+.rightmenu ul li:hover{
+	color: orange;
+}
+
+
+.text{
+	width: 100%;
+	margin-top: 185px;
+	text-transform: uppercase;
+	text-align: center;
+	color:white;
+}
+
+.text h4{
+
+	font-size: 14px;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.text h1{
+	font-size:62px;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 700px;
+	margin:14px 0px;
+}
+
+.text h3{
+	font-size: 12px;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.text:hover{ background-color:green; }
+
+
+#buttonone{
+	background-color: white;
+	border: none;
+	font-size: 12px;
+	font-weight: bold;
+	text-transform: uppercase;
+	line-height: 40px;
+	width: 150px;
+	font-family: 'Montserrat', sans-serif;
+	margin-top: 25px;
+	border: 3px solid green;
+}
+
+#buttontwo{
+
+	background-color: yellow;
+	border: none;
+	font-family: 'Montserrat', sans-serif;
+	text-transform: uppercase;
+	font-weight: bold;
+	line-height: 40px;
+	border: 3px solid red;
+	width: 150px;
+}
+
+
+
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: green;
+   color: white;
+   text-align: center;
+}
+
+
+
+   .buttonone1{
+	background-color: transparent;
+	font-color:white;
+	border: none;
+	font-size: 130%;
+	font-weight: bold;
+	background-color: green; 
+	line-height: 40px;
+	width: 40%;
+	font-family: 'Montserrat', sans-serif;
+	margin-top: 25px;
+}
+
+
+    .buttonone1:hover 
+    {
+    	background-color: red; 
+    }
+   
+   
+   .works
+{
+   	
+   	margin-left:17%;
+   
+   	height:83%;
+   
+}
+
+
+
+
+.bgdownload{
+	background-image: url('12646_2.png');
+	background-size: cover;
+	width: 100%;
+	height: 100vh;
+}
+
+
+.bgworks{
+	background-image: url('Himgiri_1.png');
+	background-size: cover;
+	width: 100%;
+	height: 100vh;
+	}
+
+
+	.bgreport{
+	background-image: url('Himgiri_2.png');
+	background-size: cover;
+	width: 100%;
+	height: 100vh;
+}
+
+.bgreg{
+	background-image: url('PAWAN1.png');
+	background-size: cover;
+	width: 100%;
+	height: 100vh;
+	}
+
+	.bgabtus{
+	background-image: url('APCP.png');
+	background-size: cover;
+	width: 100%;
+	height: 100vh;
+
+}
+
+.bgcont{
+	background-image: url('AC_AP_2.png');
+	background-repeat: no-repeat;
+	background-size: 100% 97%;
+	width: 100%;
+	height: 100vh;
+
+}
+
+
+.elec{
+	background-color: transparent;
+	font-color:white;
+	border: none;
+	font-size: 130%;
+	font-weight: bold;
+	background-color: green; 
+	line-height: 20px;
+	width: 10%;
+	font-family: 'Montserrat', sans-serif;
+	margin-top: 25px;
+}
+
+
+    .elec:hover 
+    {
+    	background-color: red; 
+    }
